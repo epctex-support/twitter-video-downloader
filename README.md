@@ -1,4 +1,4 @@
-# [https://apify.com/epctex/twitter-video-downloader](https://apify.com/epctex/twitter-video-downloader?fpr=yhdrb)
+[https://apify.com/epctex/twitter-video-downloader](https://apify.com/epctex/twitter-video-downloader?fpr=yhdrb)
 
 # Actor - Twitter Video Downloader
 
